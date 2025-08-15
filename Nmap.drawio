@@ -208,8 +208,8 @@
         <mxCell id="9NE6xN3h0LuDKKkdftEm-12" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;REDINTDMZ2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-584.03" y="818.39" width="80.75" height="7.5" as="geometry" />
         </mxCell>
-        <mxCell id="9NE6xN3h0LuDKKkdftEm-13" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;T3&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;HN: red-host-1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;IP: 172.16.140.33&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Ports: 22,80,2800&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-593.96" y="895" width="56.72" height="50" as="geometry" />
+        <mxCell id="9NE6xN3h0LuDKKkdftEm-13" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;T3&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;HN: red-host-1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;IP: 172.16.140.33&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Ports: 22,80,2800&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 4px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Tcp:&lt;/font&gt;&lt;font style=&quot;&quot;&gt; 2305,2800,2828&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-593.96" y="895" width="56.72" height="85" as="geometry" />
         </mxCell>
         <mxCell id="9NE6xN3h0LuDKKkdftEm-14" value="" style="line;strokeWidth=2;direction=south;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-509.37999999999994" y="845" width="1" height="20" as="geometry" />
