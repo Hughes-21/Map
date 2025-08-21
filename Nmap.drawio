@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="_rwPM-7uunxRJzQnY0g6">
-    <mxGraphModel dx="2276" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
         <mxCell id="rV_EDdplLf0STSpB1xcs-70" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.monitor;network2IconYOffset=-0.009;network2IconW=1;network2IconH=0.742;" parent="1" vertex="1">
           <mxGeometry x="-209.42" y="865.46" width="46.57" height="34.54" as="geometry" />
         </mxCell>
-        <mxCell id="rV_EDdplLf0STSpB1xcs-71" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;T2&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;HN: red-host-2?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;IP: 172.16.182.110&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Ports:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;TCP: 22,80,1980, 1982, 1988, 1989&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;UDP: 1984, 1989&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="rV_EDdplLf0STSpB1xcs-71" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;T2&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;HN: red-host-2&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;IP: 172.16.182.110&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Ports:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;TCP: 22,80,1980, 1982, 1988, 1989&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;UDP: 1984, 1989&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-213.28" y="900" width="56.72" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rV_EDdplLf0STSpB1xcs-72" value="" style="line;strokeWidth=2;direction=south;html=1;rotation=0;" parent="1" vertex="1">
@@ -217,7 +217,7 @@
         <mxCell id="9NE6xN3h0LuDKKkdftEm-15" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.monitor;network2IconYOffset=-0.009;network2IconW=1;network2IconH=0.742;" parent="1" vertex="1">
           <mxGeometry x="-533.38" y="860.46" width="46.57" height="34.54" as="geometry" />
         </mxCell>
-        <mxCell id="9NE6xN3h0LuDKKkdftEm-16" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;T7&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;HN: red-host-2?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;IP: 172.16.140.35&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Ports: 22&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9NE6xN3h0LuDKKkdftEm-16" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;T7&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;HN: red-int-dmz2-host-2&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;IP: 172.16.140.35&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Ports: 22&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-537.24" y="895" width="56.72" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9NE6xN3h0LuDKKkdftEm-17" value="" style="line;strokeWidth=3;direction=south;html=1;" parent="1" vertex="1">
@@ -226,10 +226,10 @@
         <mxCell id="9NE6xN3h0LuDKKkdftEm-18" value="" style="line;strokeWidth=3;direction=south;html=1;rotation=-90;perimeterSpacing=3;" parent="1" vertex="1">
           <mxGeometry x="-534.17" y="791.19" width="8" height="111.88" as="geometry" />
         </mxCell>
-        <mxCell id="NUr2wXwa7sHBsrDPbHHv-1" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.monitor;network2IconYOffset=-0.009;network2IconW=1;network2IconH=0.742;" vertex="1" parent="1">
+        <mxCell id="NUr2wXwa7sHBsrDPbHHv-1" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.monitor;network2IconYOffset=-0.009;network2IconW=1;network2IconH=0.742;" parent="1" vertex="1">
           <mxGeometry x="673.86" y="600" width="46.57" height="34.54" as="geometry" />
         </mxCell>
-        <mxCell id="NUr2wXwa7sHBsrDPbHHv-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;T1&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;HN: networking-ctfd-2.server.vta&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;IP: 10.50.20.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Ports: 53&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NUr2wXwa7sHBsrDPbHHv-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;T1&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;HN: networking-ctfd-2.server.vta&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;IP: 10.50.20.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Ports: 53&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="634.54" width="56.72" height="65.46" as="geometry" />
         </mxCell>
       </root>
